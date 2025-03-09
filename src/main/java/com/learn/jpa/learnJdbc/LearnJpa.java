@@ -1,4 +1,4 @@
-package com.learn.jpa.learnJdbcJpa.entities;
+package com.learn.jpa.learnJdbc;
 
 public class LearnJpa {
 
